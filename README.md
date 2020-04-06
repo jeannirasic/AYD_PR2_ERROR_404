@@ -1,3 +1,4 @@
 # AYD_PR2_ERROR_404
 Practica 2 analisis y diseño
-Prueba de usuario
+Integrantes:
+-Jorge David Espina Molina 201403632
